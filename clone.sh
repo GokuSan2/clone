@@ -4,3 +4,4 @@ git clone -b lineage-22.0 https://github.com/xiaomi-sm6150/proprietary_vendor_xi
 git clone -b lineage-22.0 https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sweet.git vendor/xiaomi/sweet
 git clone -b sleepy --depth=1 https://github.com/GokuSan2/kernel_xiaomi_sm6150.git kernel/xiaomi/sm6150
 git clone -b 15 https://github.com/GokuSan2/android_hardware_xiaomi.git hardware/xiaomi
+git clone -b 15 --depth=1 https://codeberg.org/AuroraDroid/vendor_gms.git vendor/gms
